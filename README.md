@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/2t6n7l0juui4r5dd?svg=true)](https://ci.appveyor.com/project/Megalapka/java-aqa2-3-patterns-task1)
+[![Build status](https://ci.appveyor.com/api/projects/status/1fu5g85gbbg75xsv?svg=true)](https://ci.appveyor.com/project/Megalapka/java-aqa2-3-patterns-task2)
 
 # Домашнее задание к занятию «2.3. Patterns»
 
